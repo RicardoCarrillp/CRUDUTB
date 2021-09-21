@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CRUDUTB/static/css/main.4ad27a9f.chunk.css",
+    "main.js": "/CRUDUTB/static/js/main.2bbd07cb.chunk.js",
+    "main.js.map": "/CRUDUTB/static/js/main.2bbd07cb.chunk.js.map",
+    "runtime-main.js": "/CRUDUTB/static/js/runtime-main.7a11787e.js",
+    "runtime-main.js.map": "/CRUDUTB/static/js/runtime-main.7a11787e.js.map",
+    "static/css/2.a95be28f.chunk.css": "/CRUDUTB/static/css/2.a95be28f.chunk.css",
+    "static/js/2.46388f4a.chunk.js": "/CRUDUTB/static/js/2.46388f4a.chunk.js",
+    "static/js/2.46388f4a.chunk.js.map": "/CRUDUTB/static/js/2.46388f4a.chunk.js.map",
+    "static/js/3.9fe25fa4.chunk.js": "/CRUDUTB/static/js/3.9fe25fa4.chunk.js",
+    "static/js/3.9fe25fa4.chunk.js.map": "/CRUDUTB/static/js/3.9fe25fa4.chunk.js.map",
+    "index.html": "/CRUDUTB/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/CRUDUTB/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.4ad27a9f.chunk.css.map": "/CRUDUTB/static/css/main.4ad27a9f.chunk.css.map",
+    "static/js/2.46388f4a.chunk.js.LICENSE.txt": "/CRUDUTB/static/js/2.46388f4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a11787e.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.46388f4a.chunk.js",
+    "static/css/main.4ad27a9f.chunk.css",
+    "static/js/main.2bbd07cb.chunk.js"
+  ]
+}
